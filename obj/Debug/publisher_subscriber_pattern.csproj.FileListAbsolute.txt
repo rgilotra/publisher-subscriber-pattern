@@ -1,7 +1,0 @@
-D:\study\projects\github\publisher_subscriber_pattern\bin\Debug\publisher_subscriber_pattern.exe.config
-D:\study\projects\github\publisher_subscriber_pattern\bin\Debug\publisher_subscriber_pattern.exe
-D:\study\projects\github\publisher_subscriber_pattern\bin\Debug\publisher_subscriber_pattern.pdb
-D:\study\projects\github\publisher_subscriber_pattern\obj\Debug\publisher_subscriber_pattern.csprojAssemblyReference.cache
-D:\study\projects\github\publisher_subscriber_pattern\obj\Debug\publisher_subscriber_pattern.csproj.CoreCompileInputs.cache
-D:\study\projects\github\publisher_subscriber_pattern\obj\Debug\publisher_subscriber_pattern.exe
-D:\study\projects\github\publisher_subscriber_pattern\obj\Debug\publisher_subscriber_pattern.pdb
